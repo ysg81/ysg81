@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=D3D3D1&height=400&section=header&text=Gons%20Github!&fontSize=90&animation=fadeIn&fontColor=ffffff)
 
-
-<br/>
-
 <div align="center" style="font-weight:700">
+
+  ## Tech Stack
   
-  ## Tech
+  <br/>
   
 </div>
 
@@ -23,11 +22,24 @@
   <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
   <br/>
-  <br/>
 
-  #### 🔑 Sub Stack(used at least once) 🔑
+  ##### 🔑  Sub Stack(used at least once)
   
   <img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   
+  <br/>
+  <br/>
+  <br/>
+  
+  ### 📚 Learning
+    
+  <a href="https://velog.io/@ysg81" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+<br/>
+<br/>
+<br/>
+
+Thank you
+
 </div>
