@@ -23,7 +23,7 @@
 
   <br/>
 
-  ##### 🔑  Sub Stack(used at least once)
+  ##### 🔑  Sub Stack
   
   <img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
